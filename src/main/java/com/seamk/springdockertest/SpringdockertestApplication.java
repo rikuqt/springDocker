@@ -1,13 +1,13 @@
-package com.seamk.springDocker;
+package com.seamk.springdockertest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDockerApplication {
+public class SpringdockertestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDockerApplication.class, args);
+		SpringApplication.run(SpringdockertestApplication.class, args);
 	}
 
 }

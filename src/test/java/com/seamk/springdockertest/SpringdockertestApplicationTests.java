@@ -1,10 +1,10 @@
-package com.seamk.springDocker;
+package com.seamk.springdockertest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringDockerApplicationTests {
+class SpringdockertestApplicationTests {
 
 	@Test
 	void contextLoads() {
