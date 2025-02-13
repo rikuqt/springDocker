@@ -63,12 +63,14 @@
 			<version>3.6.0</version>
 			<executions>
 				<execution>
+					<phase>validate</phase>
 					<goals>
 						<goal>check</goal>
 					</goals>
 				</execution>
 			</executions>
 		</plugin>
+
 
 		</plugins>
 	</build>
