@@ -56,4 +56,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: rikuqt/springdockertest:latest
+          tags: rikuq/springdockertest:latest
